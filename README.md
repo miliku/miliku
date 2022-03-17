@@ -7,7 +7,6 @@
 <div align="left">
 
 ![Twitter](https://img.shields.io/badge/@milikuDK-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-
 <p>
 
 ![Twitch](https://img.shields.io/badge/Miliku-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
