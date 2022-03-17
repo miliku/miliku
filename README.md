@@ -3,10 +3,9 @@
 </h1>
 
 <br>
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+
 <p>
 <div align="center">
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
   <img src="https://img.shields.io/badge/-CCNA-blue?style=for-the-badge">
 
