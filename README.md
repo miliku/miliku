@@ -5,14 +5,12 @@
 <br>
 <p>
 <div align="left">
-
-![Twitter](https://img.shields.io/badge/@milikuDK-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <p>
 
-![Twitch](https://img.shields.io/badge/Miliku-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
-</div>
 <div align="center">
 
+![Twitter](https://img.shields.io/badge/@milikuDK-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitch](https://img.shields.io/badge/Miliku-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
