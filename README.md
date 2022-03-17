@@ -4,9 +4,11 @@
 
 <br>
 <p>
+<div align="left">
 ![Twitter](https://img.shields.io/badge/@milikuDK-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <p>
 ![Twitch](https://img.shields.io/badge/Miliku-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+</div>
 <div align="center">
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
