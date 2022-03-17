@@ -32,7 +32,7 @@ if __name__ == '__main__':
 ```
 
 <div align="center">
-  <a href="https://open.spotify.com/track/6WI2bibVQSHgOCT47yoBhs?si=8b5c660bede14457">
+  <a href="https://open.spotify.com/user/1118499160?si=d7ba017dad6e4a7c">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
