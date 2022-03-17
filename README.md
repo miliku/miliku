@@ -7,8 +7,10 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-CCNA-blue?style=for-the-badge">
+  <!--
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  -->
 </div>
 </p>
 
@@ -30,7 +32,7 @@ if __name__ == '__main__':
 ```
 
 <div align="center">
-  <a href="https://open.spotify.com/track/6WI2bibVQSHgOCT47yoBhs?si=123138a6c2444e74">
+  <a href="https://open.spotify.com/track/6WI2bibVQSHgOCT47yoBhs?si=8b5c660bede14457">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
