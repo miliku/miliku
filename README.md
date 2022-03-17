@@ -21,10 +21,9 @@ class miliku():
     self.name = "Alyx guldhammer;
     self.username = "Miliku";
     self.location = "Aarhus, Denmark";
-    self.twitter = "@milikuDK";
-<!--    
-    self.web = "";
--->
+    self.twitter = "@milikuDK";  
+#    self.web = "";
+
   def __str__(self):
     return self.name
 if __name__ == '__main__':
